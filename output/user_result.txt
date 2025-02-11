@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-11 06:38:46,url
+2025-02-11 18:47:41,url
 📺央视频道,#genre#
 CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$订阅源|1920x1080
@@ -16,7 +16,7 @@ CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8$订阅源|1920x1080
 CCTV-3,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3$订阅源
 CCTV-3,http://58.221.214.82:9901/tsfile/live/0003_1.m3u8$订阅源
 CCTV-3,http://123.182.60.29:9002/hls/3/index.m3u8$订阅源
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源|1920x1080
 CCTV-4,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8$订阅源
 CCTV-4,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3$订阅源
 CCTV-4,http://61.138.128.226:19901/tsfile/live/0004_1.m3u8$订阅源
@@ -380,4 +380,3 @@ CCTV-15,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/100000
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
 🏛经典剧场,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
-三国演义,http://live.metshop.top/huya/11602081$订阅源
