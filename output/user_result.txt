@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-30 06:28:58,url
+2025-03-30 18:36:00,url
 📺央视频道,#genre#
 CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$订阅源|1920x1080
@@ -198,10 +198,11 @@ CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=
 JJ斗地主,http://live.iill.top/bilibili.php?id=22021983$订阅源
 JJ斗地主,http://live.iill.top/douyu.php?id=488743$订阅源
 🪁动画频道,#genre#
-青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$订阅源
-宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$订阅源
+青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$订阅源|1920x1080
+宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$订阅源|1920x1080
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8$订阅源
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+睛彩少儿,http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8$订阅源
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2$订阅源
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c$订阅源
@@ -215,7 +216,7 @@ JJ斗地主,http://live.iill.top/douyu.php?id=488743$订阅源
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970$订阅源
 🎮游戏频道,#genre#
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy$订阅源
-电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140$订阅源
+电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140$订阅源|1920x1080
 🎵音乐频道,#genre#
 CCTV-15,http://61.138.128.226:19901/tsfile/live/0019_1.m3u8$订阅源
 CCTV-15,https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8$订阅源|1920x1080
